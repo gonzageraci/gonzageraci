@@ -27,6 +27,8 @@ Soy un **Backend Developer** apasionado por crear soluciones eficientes y escala
 - **Fastify** ![4 estrellas](https://img.shields.io/badge/stars-4-yellow)
 - **Express** ![3.5 estrellas](https://img.shields.io/badge/stars-3.5-yellow)
 - **NodeJS** ![3 estrellas](https://img.shields.io/badge/stars-3-yellow)
+- **Kafka** ![3 estrellas](https://img.shields.io/badge/stars-3-yellow)
+
 
 ## 📫 Cómo Contactarme
 
