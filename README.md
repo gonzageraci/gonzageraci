@@ -99,10 +99,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=ecf05e47dhkkjb4yl92h80y8f1mbg4bifk7q4nusbhwe5wg7&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
 <div align="left">
   <a href="https://discord.com/gonzageraci" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
